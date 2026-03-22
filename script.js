@@ -17,11 +17,35 @@ const products = [
     price: 3500,
     image: "watches.png"
   },
+   {
+    id: 3,
+    name: "suit",
+    price: 5500,
+    image: "suit.png"
+  },
+   {
+    id: 3,
+    name: "sufuria",
+    price: 6000,
+    image: "watches.png"
+  },
+   {
+    id: 3,
+    name: "speaker",
+    price: 40000,
+    image: "speaker.png"
+  },
+   {
+    id: 3,
+    name: "bag",
+    price: 2500,
+    image: "watches.png"
+  },
   {
     id: 4,
     name: "Boxers",
     price: 900,
-    image: "boxers.png"
+    image: "boxer.png"
   }
 ];
 
